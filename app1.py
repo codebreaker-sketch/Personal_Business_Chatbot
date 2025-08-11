@@ -8,7 +8,7 @@ import google.generativeai as genai
 import matplotlib.pyplot as plt  # For bar chart
 from googletrans import Translator  # For translation
 from matplotlib import ticker
-
+import cgi
 # ---------------------------
 # Configure Gemini + translator
 # ---------------------------
