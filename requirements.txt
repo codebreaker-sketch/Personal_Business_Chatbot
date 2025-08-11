@@ -3,4 +3,5 @@ pandas
 matplotlib
 google-generativeai
 googletrans==4.0.0rc1
+python-3.10
 
